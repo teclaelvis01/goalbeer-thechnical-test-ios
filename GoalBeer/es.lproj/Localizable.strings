@@ -1,0 +1,29 @@
+/* 
+  Localizable.strings
+  GoalBeer
+
+  Created by Elvis Reyes on 16/5/22.
+  
+*/
+"home" = "Inicio";
+"settings" = "Ajustes";
+"find-perf-beer" = "Encuentra la cerveza perfecta";
+"find-out-which" = "Descubre qué cerveza es ideal para ti o para esa cena especial";
+"we-dont-have" = "No tenemos bebida para esa comida. ¿Quieres algo?";
+"search-here" = "Busca aquí";
+"image-could-not" = "No se pudo cargar la imagen";
+"cancel" = "Cancelar";
+"an-error-has" = "Ha ocurrido un error";
+"food-pairing" = "Maridaje de alimentos";
+"filters" = "Filtros";
+"reset" = "Reiniciar";
+"act-filter-abv" = "Activa para filtrar por rango de Volumen de Alcohol";
+"alcohol-by-volume" = "Volumen de Alcohol (ABV)";
+"%@ greater than %@" = "%@ mayor que %@";
+"act-filter-ibu" = "Activa para filtrar por Unidades Internacionales de Amargor";
+"international-bittering-units" = "Unidades Internacionales de Amargor (IBU)";
+"act-filter-brewed" = "Activa para filtrar por fecha de preparación";
+"before-this-date" = "Antes de esta fecha";
+"after-this-date" = "Después de esta fecha";
+"beer-brewed" = "Elaboración";
+"apply-filters" = "Aplicar filtros";
